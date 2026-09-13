@@ -1,0 +1,23 @@
+[
+    {
+        "codigo": 1,
+        "nombre": "Hamburguesa",
+        "categoria": "Comida",
+        "precio": 8.50,
+        "stock": 15
+    },
+    {
+        "codigo": 2,
+        "nombre": "Papas Fritas",
+        "categoria": "Acompañamiento",
+        "precio": 3.50,
+        "stock": 30
+    },
+    {
+        "codigo": 3,
+        "nombre": "Jugo de Naranja",
+        "categoria": "Bebida",
+        "precio": 2.50,
+        "stock": 50
+    }
+]

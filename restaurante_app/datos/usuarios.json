@@ -1,0 +1,20 @@
+[
+    {
+        "identificacion": 123456789,
+        "nombre": "Kevin Bolivar Lascano Sanchez",
+        "correo": "kevin@correo.com",
+        "contraseña": "123456"
+    },
+    {
+        "identificacion": 987654321,
+        "nombre": "Maria Lopez",
+        "correo": "maria@correo.com",
+        "contraseña": "654321"
+    },
+    {
+        "identificacion": 215021,
+        "nombre": "jonny garces",
+        "correo": "jonnygarces2007@gmail.com",
+        "contraseña": "200729"
+    }
+]
